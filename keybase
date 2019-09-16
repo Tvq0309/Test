@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am tvq0309 on github.
+  * I am quangtruong97 (https://keybase.io/quangtruong97) on keybase.
+  * I have a public key ASD2AN3VlbaAcJfeLPN_ubFm5d5pJPsRcMfIX67xrCEW1wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f600ddd595b6807097de2cf37fb9b166e5de6924fb1170c7c85faef1ac2116d70a",
+      "host": "keybase.io",
+      "kid": "0120f600ddd595b6807097de2cf37fb9b166e5de6924fb1170c7c85faef1ac2116d70a",
+      "uid": "3afb4ecefa7058ad971609703bc3b419",
+      "username": "quangtruong97"
+    },
+    "merkle_root": {
+      "ctime": 1568636997,
+      "hash": "bcabaf6ccc31ca8ea64454c2f7219199c3b64196c67cf24748943a6a6bef1d52535b00ed064a159dbdfa3a0a3498d7c9c2906dd8755c820c2c9e11fb5e205ee0",
+      "hash_meta": "75426c053f7ab2811ed237f76943828806e36ec59f17c815eabdb69225652844",
+      "seqno": 7460398
+    },
+    "service": {
+      "entropy": "AH1Yi27fyrXKlU96wYffQrgx",
+      "name": "github",
+      "username": "tvq0309"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568637006,
+  "expire_in": 504576000,
+  "prev": "fe87cefc30791bb09ae92c806606edb2005c3b79142870c55048c54bfb9fb058",
+  "seqno": 6,
+  "tag": "signature"
+}
+```
+
+with the key [ASD2AN3VlbaAcJfeLPN_ubFm5d5pJPsRcMfIX67xrCEW1wo](https://keybase.io/quangtruong97), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9gDd1ZW2gHCX3izzf7mxZuXeaST7EXDHyF+u8awhFtcKp3BheWxvYWTESpcCBsQg/ofO/DB5G7Ca6SyAZgbtsgBcO3kUKHDFUEjFS/ufsFjEIKY0c2+FmZHogQxMICNxhfFIkB/yBB4D++XavY5QaXztAgHCo3NpZ8RAe7zjJBAdEsflIAwzoF5PD5dHsJsFRO/upPSZCJb75cbeV8pZvxCvmiSME5F8PnCRr4PEbWlEq63Mm981KA83CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFctrR+XaPnMK8ULIgubDUxlxBKLpchTlnjF6Sct7zxco3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/quangtruong97
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id quangtruong97
+```
